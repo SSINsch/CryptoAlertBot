@@ -1,0 +1,7 @@
+# API key
+ARKHAM_API_KEY: "api1"
+TELEGRAM_BOT_TOKEN: "api2"
+
+CHAT_ID: 'AlertBot'
+LAST_TX_FILE: 'address-tx.json'
+PATH_HACKER_ADDRESS: 'hacker-address.json'
